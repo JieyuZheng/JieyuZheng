@@ -16,9 +16,8 @@ I'm a passionate software developer and technology enthusiast with a flair for p
 📦 Git | GitHub | VS Code
 
 🌟 Projects
-✨ Project 1: A brief description
-✨ Project 2: Another exciting project
-✨ Project 3: And one more!
+✨ Project 1: Gym management system (Python, Flask, HTML, CSS, MySQL)
+✨ Project 2: Practice demo (React.js)
 📫 Let's Connect
 
 📧 Email: amy.zheng.jieyu@gmail.com
